@@ -95,15 +95,15 @@ const Index = () => {
 
   const speakers = [
     {
-      name: "Dr. Aisha Rahman",
+      name: "Keshav Mittal",
       title: "AI Research Director",
       company: "Tech Innovations Lab",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b332c2cd",
+      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
       bio: "Leading expert in machine learning and neural networks with 15+ years of experience.",
       expertise: ["AI/ML", "Deep Learning", "Computer Vision"]
     },
     {
-      name: "Prof. Raj Patel",
+      name: "Mahavir",
       title: "Cybersecurity Specialist",
       company: "Digital Security Institute",
       image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
@@ -111,10 +111,10 @@ const Index = () => {
       expertise: ["Cybersecurity", "Blockchain", "Ethical Hacking"]
     },
     {
-      name: "Ms. Priya Singh",
+      name: "Tarun Das",
       title: "Full Stack Developer",
       company: "Innovation Hub",
-      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80",
+      image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e",
       bio: "Full-stack developer and tech entrepreneur with expertise in modern web technologies.",
       expertise: ["React", "Node.js", "Cloud Computing"]
     }
